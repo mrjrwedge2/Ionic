@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
+
+
 /**
  * Generated class for the AddContactsPage page.
  *
@@ -21,5 +23,7 @@ export class AddContactsPage {
   ionViewDidLoad() {
     console.log('ionViewDidLoad AddContactsPage');
   }
+
+
 
 }
